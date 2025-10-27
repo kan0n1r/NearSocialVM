@@ -59,7 +59,7 @@
     "react-infinite-scroller": "^1.2.6",
     "react-markdown": "^7.1.0",
     "react-singleton-hook": "^3.1.1",
-    "react-syntax-highlighter": "^15.5.0",
+    "react-syntax-highlighter": "^16.0.0",
     "react-uuid": "^1.0.2",
     "remark-gfm": "^3.0.1",
     "styled-components": "^5.3.6",
